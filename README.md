@@ -45,3 +45,6 @@ Arduino'ya kodu yükleyerek ve uzaktan kumandayı çalıştırarak aracı yönle
 
 Bu proje, kablosuz haberleşme, sensör kullanımı ve motor kontrolü konularında uygulamalı bir örnek sunmaktadır.
 
+# git config --global core.autocrlf true
+
+
